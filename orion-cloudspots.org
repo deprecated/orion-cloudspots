@@ -1,0 +1,46 @@
+The dark regions in Orion
+
+* History
++ Bob O'Dell first identified the "Geheimnis" region in Orion S
+  + ODell:2000a is the first mention I think
+    + HIGH ANGULAR RESOLUTION DETERMINATION OF EXTINCTION IN THE ORION NEBULA
+    + C. R. O'DELL and F. YUSEF-ZADEH
+    + Although actually, there seems to be earlier history too
+  + Geheimnis is german for "secret", "mystery"
+  + https://www.linguee.de/deutsch-englisch/uebersetzung/geheimnis.html
+  + In paper it is referred to as the "Unusual Dark Arc"
+    + See sec 4.7 of ODell:2000a
+  + The interpretation given is that it is 
+    : a sharp lip tilting toward the observer on the side close to h1 Ori C, then abruptly dropping.
+  + My objection to this interpretation is that no bright ionization front is evident
++ My first work on it was presented in Star Formation Workshop 2005
+  + /I think, although there is evidence it was earlier (see below)/
+  + [[file:~/Dropbox/Presentations/Poland2012/oldtalks/SF05-wjh-talk.pdf]]
+  + I identified the following
+    + Dark snake
+    + Bright snake
+    + Shadow (Geheimnis region)
+  + I suggested the shadow was the literal shadow of the Bright snake (what Garcia-Diaz:2007a call the "SW compact bar")
+    + However I now think that was wrong
+  + I showed an analog model with the sun projecting the shadow of a stick onto a curved surface (poster tube)
+
+
+
+
+* Useful images
+
+** Orion S WFC3 [S II]-[N II]-[O III]
+#+attr_html: :width 500
+[[file:~/Dropbox/RubinWFC3/Tsquared/full_RGB.jpg]]
+* Inventory of Geheimnis regions
+1. The dark arc - the classic prototype
+2. The bat-and-duck - smaller region similar to dark arc, just to the S
+3. The dark-
+4. The dark snake - weird filament that for a long time I thought must be a 
+
+* Line ratios
++ I was going to measure these on the MUSE images, but that will have to be another day
++ The data is on the external SSD
++ The ds9 backup file is
+  + [[file:/Volumes/SSD-1TB/OrionMuse/LineMaps/multiple-maps-2018-10-27.bck]]
+
