@@ -48,7 +48,7 @@ The dark regions in Orion
   + This is where the hot wind is channeled
   + But do we have enough proplyds?
 
-[[file:Evernote Snapshot 20160303 145512.jpg]]
+[[file:three-wind-plume-blackboard-sketch.jpg]]
 
 
 
@@ -57,7 +57,7 @@ The dark regions in Orion
 
 ** Orion S WFC3 [S II]-[N II]-[O III]
 #+attr_html: :width 500
-[[file:~/Dropbox/RubinWFC3/Tsquared/full_RGB.jpg]]
+[[file:full_RGB.jpg]]
 * Inventory of Geheimnis regions
 1. The dark arc - the classic prototype
 2. The bat-and-duck - smaller region similar to dark arc, just to the S
