@@ -27,6 +27,32 @@ The dark regions in Orion
 
 
 
+* Possible models
++ Initially copied over from [[file:~/Dropbox/RadioProplyds/jan-forbrich-2016.org][file:~/Dropbox/RadioProplyds/jan-forbrich-2016.org]]
+** Ionization shadows
++ Possibly works for Dark Arc
+  + Obstacle is filament near LV4, 5, 6
++ But hard to find obstacles for all the regions
+** Magnetic pressure
++ Analog to sunspots
++ Should have B \approx (8 \pi P)^{1/2  }
+  + P = 2 n k T \approx 2.761-8 N_4 dyn
+  + B = 4.7e-4 G = 470 N_4^0.5 \mu{}G
+  + Where N_4 is the ambient density in units of 10^4 cm^-3
+  + (Note, the density within the cloudspot will be lower)
++ This is 10 times higher than the magnetic field in the Veil
+  + But maybe could be from a molecular filament and has somehow leaked out in a magnetic arc or something
+** Ram pressure
++ bowshock tails can't work because radial from th1C so ionizing photons run down the empty channels and would produce bright emission at the end
++ 3-wind interaction plume could work
+  + This is where the hot wind is channeled
+  + But do we have enough proplyds?
+
+[[file:Evernote Snapshot 20160303 145512.jpg]]
+
+
+
+
 * Useful images
 
 ** Orion S WFC3 [S II]-[N II]-[O III]
@@ -35,8 +61,7 @@ The dark regions in Orion
 * Inventory of Geheimnis regions
 1. The dark arc - the classic prototype
 2. The bat-and-duck - smaller region similar to dark arc, just to the S
-3. The dark-
-4. The dark snake - weird filament that for a long time I thought must be a 
+3. The dark snake - weird filament that for a long time I thought must be an internal extinction filament
 
 * Line ratios
 + I was going to measure these on the MUSE images, but that will have to be another day
