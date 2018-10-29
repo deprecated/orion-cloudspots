@@ -49,8 +49,9 @@ The dark regions in Orion
   + But do we have enough proplyds?
 
 [[file:three-wind-plume-blackboard-sketch.jpg]]
-
-
+** Fossil cavities of molecular outflows
++ Explains association with cavity in Carina
++ Also HH 625
 
 
 * Useful images
@@ -62,6 +63,16 @@ The dark regions in Orion
 1. The dark arc - the classic prototype
 2. The bat-and-duck - smaller region similar to dark arc, just to the S
 3. The dark snake - weird filament that for a long time I thought must be an internal extinction filament
+4. HH 625 (see below)
+   [[file:hh-625.png]]
+5. Little paw prints
+   - to the east of HH 625
+   - low contrast and often showing symmetrical placing
+   - This is a zoom of the WFC3 field with enhanced contrast
+     [[file:little-pawprints.png]]
+   - Also patterns that look like a skull, a moustache, etc!
+6. Lots more fainter small features all around the Orion S region
+7. The "nostrils" beyond HH528
 
 * Line ratios
 + I was going to measure these on the MUSE images, but that will have to be another day
@@ -69,3 +80,33 @@ The dark regions in Orion
 + The ds9 backup file is
   + [[file:/Volumes/SSD-1TB/OrionMuse/LineMaps/multiple-maps-2018-10-27.bck]]
 
+
+* Other questions
++ Are they seen in other H II regions?
+  + Look at HST images of Carina, of Lagoon
+  + *Yes*, Lagoon definitely has them in hourglass region
+    #+attr_html: :width 500
+    [[file:m8-dark-spots.png]]
+    + See [[file:~/Dropbox/Presentations/Olympia2014/figs/lagoon/lagoon-fact.org][file:~/Dropbox/Presentations/Olympia2014/figs/lagoon/lagoon-fact.org]]
+    + distance 1.25 kpc
+    + dominated by Herschel 36 (O7)
+      + even though the region as a whole is dominated by O4 star
+    + [[https://www.spacetelescope.org/news/heic1015/][HST ACS image of region near Hourglass]]
+    + [[https://www.sea-astronomia.es/sites/default/files/archivos/proceedings11/via_lactea/maizapellanizj-poster2/poster_maizapellanizj2.pdf][Interesting poster on HST observations of Hourglass]]
+    + [[http://hubblesite.org/image/462/news_release/1996-38][Earlier HST images of Hourglass]]
+  + *Also* Carina shows similar features
+    + Hairy ball (my name)
+      [[file:carina-hairy-ball.png]]
+      + https://www.spacetelescope.org/images/heic0910d/
+    + Mystic Mountain (not my name)
+      [[file:carina-mystic-mountain.png]]
+      [[file:carina-dark-arc-clone.png]]
+      + https://www.spacetelescope.org/images/heic1007b/
+
+
++ What is the relation with strange object HH 625?
+  + This has very similar dark regions in it
+  + See Sec 4.6 of ODell:2015a
+  + Has high proper motion and blue-shifted radial velocity
+    + But not that much: V_t = 30, V_r = -36 wrt mol cloud
+    
