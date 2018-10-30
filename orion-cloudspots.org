@@ -32,7 +32,12 @@ The dark regions in Orion
 ** Ionization shadows
 + Possibly works for Dark Arc
   + Obstacle is filament near LV4, 5, 6
+  + This filament seems to be composed of multiple overlapping arcs
 + But hard to find obstacles for all the regions
++ Shadows of photoionized jets
+  + Looks like corkscrew jet (driver of HH 529) and its extension to W both might have twisty thin shadows
++ Shadows of clumpy bow shocks
+  + This could explain the nostril region beyond HH 528
 ** Magnetic pressure
 + Analog to sunspots
 + Should have B \approx (8 \pi P)^{1/2  }
@@ -63,12 +68,15 @@ The dark regions in Orion
 ** Orion S WFC3 [S II]-[N II]-[O III]
 #+attr_html: :width 500
 [[file:full_RGB.jpg]]
++ More images with WFC3, including [O II] from John Bally's more recent observations are in this ds9 backup set:
+  + [[file:trapezium-wfc3-2018-10-30.bck]]
 * Inventory of Geheimnis regions
 1. The dark arc - the classic prototype
 2. The bat-and-duck - smaller region similar to dark arc, just to the S
 3. The dark snake - weird filament that for a long time I thought must be an internal extinction filament
 4. HH 625 (see below)
    [[file:hh-625.png]]
+   + This has a dark region (with swirly bits) inside an emission filament that is moving
 5. Little paw prints
    - to the east of HH 625
    - low contrast and often showing symmetrical placing
@@ -77,6 +85,8 @@ The dark regions in Orion
    - Also patterns that look like a skull, a moustache, etc!
 6. Lots more fainter small features all around the Orion S region
 7. The "nostrils" beyond HH528
+   - These look like they might be shadows of knots in the HH 528 bow shock
+8. Dark lanes in the Big Arc and round about
 
 * Line ratios
 + I was going to measure these on the MUSE images, but that will have to be another day
@@ -115,4 +125,17 @@ The dark regions in Orion
     + But not that much: V_t = 30, V_r = -36 wrt mol cloud
 
 
+
+
+* The texture of cloud spots
++ Contrast in Ha is 30% for the Dark Arc, but can be <5% for fainter small features
+
     
+
+* Comparison with other dark features
+
++ In order to reinforce the fact that they cannot be extinction features, we can compare with:
+  1. Foreground extinction clouds, such as SW cloud and the finger near it
+     - Show reddening
+     - Not seen in radio
+     - Wispy, filamentary morphology
