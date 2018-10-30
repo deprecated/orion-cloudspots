@@ -42,6 +42,10 @@ The dark regions in Orion
   + (Note, the density within the cloudspot will be lower)
 + This is 10 times higher than the magnetic field in the Veil
   + But maybe could be from a molecular filament and has somehow leaked out in a magnetic arc or something
++ Comparison with our radiation-MHD simulations
+  + Henney:2009a, Arthur:2011a
+  + In the globule simulations, we get similar streamers to what is seen in Carina
+  + In the turbulence simulations, not so much.  This is probably due to insufficient resolution.  But perhaps also the magnetic field is not strong enough
 ** Ram pressure
 + bowshock tails can't work because radial from th1C so ionizing photons run down the empty channels and would produce bright emission at the end
 + 3-wind interaction plume could work
@@ -109,4 +113,6 @@ The dark regions in Orion
   + See Sec 4.6 of ODell:2015a
   + Has high proper motion and blue-shifted radial velocity
     + But not that much: V_t = 30, V_r = -36 wrt mol cloud
+
+
     
