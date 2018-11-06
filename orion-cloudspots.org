@@ -61,7 +61,10 @@ The dark regions in Orion
 ** Fossil cavities of molecular outflows
 + Explains association with cavity in Carina
 + Also HH 625
-
++ We have hundreds of high velocity flows
+  + Some of them are coming from exposed proplyds, but some of them must be coming from embedded sources
+  + Work out kinematical ages, and then work out how long a fossil cavity would stay around, so we can get a multiplier to how many of those there might be
+  + And even the ones that start from proplyds might be able to punch there way into the molecular cloud if they are powerful enough (or maybe not)
 
 * Useful images
 
