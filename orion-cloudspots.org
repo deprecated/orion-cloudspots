@@ -65,7 +65,23 @@ The dark regions in Orion
   + Some of them are coming from exposed proplyds, but some of them must be coming from embedded sources
   + Work out kinematical ages, and then work out how long a fossil cavity would stay around, so we can get a multiplier to how many of those there might be
   + And even the ones that start from proplyds might be able to punch there way into the molecular cloud if they are powerful enough (or maybe not)
-
+*** Filling-in of a fossil cavity
++ Assume we have a jet cavity, of size less than the thickness of the ionized layer
++ What would happen to it when the jet turns off?
+  + 
+* Clues from scattered light and diagnostic ratios
++ Spots show up in [N II] 5755/6583 ratio as low-temperature
++ They also show up in [S II] 6716/6731 ratio as low-density regions
++ So definitely not in pressure balance
+  + But then we see a positive correlation between n and T in general in the nebula
++ The Dark Arc does not show strongly in the scattered light images
+  + The upper sharp edge is not visible at all
+  + But there is some bright scattered light at the lower edge
++ Other regions, such as HH 625 do show as dark in scattered light
++ Still others have a sort of mirroring morphology, where they show some dark morphology, but it is shifted and expanded with respect to what is seen in ionized lines
++ So this is evidence for two different types of cloud spot
+  1. Scattering-dark spots, which are real holes
+  2. Scattering-invisible spots, which are ionization shadows
 * Useful images
 
 ** Orion S WFC3 [S II]-[N II]-[O III]
