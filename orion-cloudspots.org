@@ -79,9 +79,15 @@ The dark regions in Orion
   + But there is some bright scattered light at the lower edge
 + Other regions, such as HH 625 do show as dark in scattered light
 + Still others have a sort of mirroring morphology, where they show some dark morphology, but it is shifted and expanded with respect to what is seen in ionized lines
+  + For instance, the Dark Duck and Bat
 + So this is evidence for two different types of cloud spot
   1. Scattering-dark spots, which are real holes
+     - These are also seen in fluorescent O I
+     - And in the Raman wings
+     - And in IRAC bands too
+     - Another example is the Dark Snake very close to the Trapezium
   2. Scattering-invisible spots, which are ionization shadows
+     - These are better-defined in higher-ionization lines, as with the upper edge of the Dark Arc. 
 * Useful images
 
 ** Orion S WFC3 [S II]-[N II]-[O III]
